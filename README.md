@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Harsh Srivastava</h1>
-<h2 align="center"A Computer Science student specializing in areas such as software development, algorithms, data structures, artificial intelligence, and computer systems, with a focus on practical application and problem-solving. </h2>
+<h2 align="center">A Computer Science student specializing in areas such as software development, algorithms, data structures, artificial intelligence, and computer systems, with a focus on practical application and problem-solving. </h2>
 
 - 🔭 I’m currently working on php
 
