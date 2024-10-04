@@ -22,13 +22,9 @@
    
 </div>
 
-### Languages and Tools:
+### Languages and Tools known:
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,ai,js,python,github,git,mysql)](https://skillicons.dev)
-
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [Harsh Srivastava](https://github.com/harsshrivastava07)
